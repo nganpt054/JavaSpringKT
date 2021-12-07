@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\18t10\eclipse-workspace\JavaSpringNhom2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3490646688.index
+\HelloSpringMVC\src\main\resources
+C:\Users\18t10\eclipse-workspace\JavaSpringNhom2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3382674178.index
+\HelloSpringMVC\src\main\java

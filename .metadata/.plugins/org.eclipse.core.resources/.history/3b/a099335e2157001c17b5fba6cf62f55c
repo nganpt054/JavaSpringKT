@@ -1,0 +1,8 @@
+package org.o7planning.hellospringmvc.bean;
+
+public class Snippet {
+	public static void main(String[] args) {
+		khachhangbean.java
+	}
+}
+
